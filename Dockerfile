@@ -36,3 +36,4 @@ EXPOSE  80
 
 # Define command to run the application when the container starts
 CMD ["node", "/app/app.js"] 
+
